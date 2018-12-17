@@ -344,3 +344,13 @@ PS C:\users\gopi\Practise>  history
   47  git add .
   48 git commit -m "merge conflict"
   49 git push
+
+
+
+
+
+bhdbhiyfgihcwi
+dbchiwyfbc
+jvuygrfhwkjd
+cvbdhvif
+ncbvjhf
